@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **FullStack development projects**
 
-- 🤝 I’m looking for help with **Material-UI and Postgres-Sql**
+- 🤝 I’m looking for help with **Next.js and Backend Development**
 
 - 📫 How to reach me **rachitgarg146@gmail.com**
 
