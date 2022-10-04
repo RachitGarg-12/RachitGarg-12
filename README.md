@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Socket.io**
 
-- 👯 I’m looking to collaborate on **frontend development projects**
+- 👯 I’m looking to collaborate on **FullStack development projects**
 
 - 🤝 I’m looking for help with **Material-UI and Postgres-Sql**
 
