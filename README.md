@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my own social media application GetSocial**
 
-- 🌱 I’m currently learning **Next.js and Socket.io**
+- 🌱 I’m currently learning **Reactjs and Socket.io**
 
 - 👯 I’m looking to collaborate on **frontend development projects**
 
